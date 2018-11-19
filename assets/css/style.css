@@ -1,0 +1,258 @@
+@import url(http://fonts.googleapis.com/earlyaccess/opensanshebrew.css);
+@import 'hover.css';
+@import 'animate.css';
+
+* {
+    transition: 0.35s ease-in-out;
+}
+
+body {
+    background-color: #f5f6f8;
+    font-family: 'Open Sans Hebrew', sans-serif;
+}
+
+/* nav bar + content */
+
+.navbar-brand {
+    display: inline;
+}
+
+#main-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+#main-nav.floating {
+    background-color: #343a40;
+    z-index: 9999999;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #17a2b8;
+    padding: 2px 7px;
+    border-radius: 3px;
+}
+
+#main-nav.floating .nav-link {
+    color: #fff !important;
+}
+
+#main-nav.floating .nav-link.border {
+    border: 1px solid #fff !important;
+}
+
+.nav-link.border {
+    border: 1px solid #17a2b8 !important;
+}
+
+.nav-link.border:hover {
+    background-color: #17a2b8;
+    color: #fff !important;
+}
+
+.nav-item:not(:last-child) {
+    margin-left: 20px;
+}
+
+#slogen {
+    font-size: 15px;
+}
+
+#logo {
+    font-size: 30px;
+}
+
+.form-control {
+    margin-left: 10px;
+}
+
+.mr-auto {
+    margin-left: 20px;
+}
+
+/* jumbotron*/
+
+.jumbotron {
+    padding: 4rem 2rem;
+    margin: 60px 300px;
+    text-align: right;
+    border-radius: 50%;
+    -webkit-box-shadow: -7px 6px 26px -6px rgb(78, 77, 78);
+    -moz-box-shadow: -7px 6px 26px -6px rgba(78, 77, 78,1);
+    box-shadow: -7px 6px 26px -6px rgba(78,77,78,1);
+}
+
+.jumbotron-fluid {
+    border-radius: 20px;
+}
+
+
+
+/* search bar */
+
+#search-wrap {
+    padding: 180px 0;
+    background-image: url("../photos/four.jpg");
+    background-size: cover;
+}
+
+
+#search-wrap form {
+    width: 40%;
+    display: block;
+    margin: auto;
+    outline: none;
+    box-shadow: 0 0 30px #d1d1d1;
+}
+
+#search-wrap form * {
+    display: inline-block;
+    vertical-align: middle;
+    border: none;
+}
+
+#form-input {
+    width: calc(80% - 1px);
+    margin: 0;
+    border-radius: 0 .25rem .25rem 0;
+    padding: 25px 15px;
+    box-shadow: none;
+}
+
+
+#form-button {
+    width:20%;
+    margin: 0;
+    margin-right: -4px;
+    background-color: #17a2b8;
+    color: white;
+    font-weight: bold;
+    border-radius: .25rem 0 0 .25rem;
+    padding: 13px 15px;
+    box-shadow: none;
+}
+
+
+/* hr design*/
+
+hr {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 70px;
+}
+
+
+/* organizations cards */
+
+.card {
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    border: 1px solid #ebebeb;
+    box-shadow: 1px 1px 1px #ebebeb;
+}
+
+#rate {
+    margin-bottom: 10px;
+    text-align: right;
+    font-size: .90em;
+} 
+
+#rate i {
+    color: rgb(240, 183, 38);
+}
+
+
+.like {
+   display: block;
+   margin-top: -25px;
+   text-align: left;
+}
+
+.fa-heart {
+    color: #e4e3e3;
+}
+
+.fa-heart:hover {
+    transform: scale(1.2);
+    transform-origin: 0 0;
+    cursor: pointer;
+}
+
+.heartClicked {
+    color: red;
+}
+
+.fas {
+    font-size: 1.35em;
+}
+
+
+.tag-name {
+    text-align: right;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.see-more {
+    font-size: larger;
+}
+
+.btn-primary {
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+
+}
+
+.btn-primary:hover {
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+
+}
+
+/* reviews */
+/*
+.reviews {
+    text-align: right;
+}
+
+.reviews h1 {
+    margin-right: 35px;
+    font-size: 30px;
+}
+
+#reviews-list {
+    list-style: none;
+}
+
+.star-icons {
+    margin: 50px;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.star-icons i {
+    padding: 20px;
+    display: block;
+}
+
+#sec-row {
+    display: inline-block;
+
+}
+
+*/
+
+
+
+
+
+
+
+
+
