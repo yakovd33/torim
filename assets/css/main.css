@@ -1,0 +1,43 @@
+/* Navbar */
+.navbar-brand {
+    display: inline;
+}
+
+#main-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+#main-nav.floating {
+    background-color: #343a40;
+    z-index: 9999999;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #17a2b8;
+    padding: 2px 7px;
+    border-radius: 3px;
+}
+
+#main-nav.floating .nav-link {
+    color: #fff !important;
+}
+
+#main-nav.floating .nav-link.border {
+    border: 1px solid #fff !important;
+}
+
+.nav-link.border {
+    border: 1px solid #17a2b8 !important;
+}
+
+.nav-link.border:hover {
+    background-color: #17a2b8;
+    color: #fff !important;
+}
+
+.nav-item:not(:last-child) {
+    margin-left: 20px;
+}

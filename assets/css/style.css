@@ -11,50 +11,7 @@ body {
     font-family: 'Open Sans Hebrew', sans-serif;
 }
 
-/* nav bar + content */
-
-.navbar-brand {
-    display: inline;
-}
-
-#main-nav {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-}
-
-#main-nav.floating {
-    background-color: #343a40;
-    z-index: 9999999;
-}
-
-.navbar-dark .navbar-nav .nav-link {
-    color: #17a2b8;
-    padding: 2px 7px;
-    border-radius: 3px;
-}
-
-#main-nav.floating .nav-link {
-    color: #fff !important;
-}
-
-#main-nav.floating .nav-link.border {
-    border: 1px solid #fff !important;
-}
-
-.nav-link.border {
-    border: 1px solid #17a2b8 !important;
-}
-
-.nav-link.border:hover {
-    background-color: #17a2b8;
-    color: #fff !important;
-}
-
-.nav-item:not(:last-child) {
-    margin-left: 20px;
-}
+/* content */
 
 #slogen {
     font-size: 15px;
@@ -217,46 +174,3 @@ hr {
     border-color: #17a2b8;
 
 }
-
-/* reviews */
-/*
-.reviews {
-    text-align: right;
-}
-
-.reviews h1 {
-    margin-right: 35px;
-    font-size: 30px;
-}
-
-#reviews-list {
-    list-style: none;
-}
-
-.star-icons {
-    margin: 50px;
-    font-size: 20px;
-    text-align: center;
-}
-
-
-.star-icons i {
-    padding: 20px;
-    display: block;
-}
-
-#sec-row {
-    display: inline-block;
-
-}
-
-*/
-
-
-
-
-
-
-
-
-
