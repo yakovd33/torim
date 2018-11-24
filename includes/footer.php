@@ -1,37 +1,171 @@
-<footer class="pt-4 my-md-5 pt-md-5 border-top">
+<footer class="page-footer" id="main-footer">
+
+<!-- Footer Links -->
+<div class="container text-center text-md-right" id="footer-top">
+
+    <!-- Grid row -->
     <div class="row">
-        <div class="col-12 col-md">
-        <img class="mb-2" src="../../assets/brand/bootstrap-solid.svg" alt="" width="24" height="24">
-        <small class="d-block mb-3 text-muted">© 2018-2019</small>
-        </div>
-        <div class="col-6 col-md">
-        <h5>Features</h5>
-        <ul class="list-unstyled text-small">
-            <li><a class="text-muted" href="#">Cool stuff</a></li>
-            <li><a class="text-muted" href="#">Random feature</a></li>
-            <li><a class="text-muted" href="#">Team feature</a></li>
-            <li><a class="text-muted" href="#">Stuff for developers</a></li>
-            <li><a class="text-muted" href="#">Another one</a></li>
-            <li><a class="text-muted" href="#">Last time</a></li>
+
+    <!-- Grid column -->
+    <div class="col-md-3 mx-auto">
+
+        <!-- Links -->
+        <h5 class="font-weight-bold text-uppercase mt-3 mb-4">קישורים</h5>
+
+        <ul class="list-unstyled">
+        <li>
+            <a href="#!">קישור 1</a>
+        </li>
+        <li>
+            <a href="#!">קישור 2</a>
+        </li>
+        <li>
+            <a href="#!">קישור 3</a>
+        </li>
+        <li>
+            <a href="#!">קישור 4</a>
+        </li>
         </ul>
-        </div>
-        <div class="col-6 col-md">
-        <h5>Resources</h5>
-        <ul class="list-unstyled text-small">
-            <li><a class="text-muted" href="#">Resource</a></li>
-            <li><a class="text-muted" href="#">Resource name</a></li>
-            <li><a class="text-muted" href="#">Another resource</a></li>
-            <li><a class="text-muted" href="#">Final resource</a></li>
+
+    </div>
+    <!-- Grid column -->
+
+    <hr class="clearfix w-100 d-md-none">
+
+    <!-- Grid column -->
+    <div class="col-md-3 mx-auto">
+
+        <!-- Links -->
+        <h5 class="font-weight-bold text-uppercase mt-3 mb-4">קישורים</h5>
+
+        <ul class="list-unstyled">
+        <li>
+            <a href="#!">קישור 1</a>
+        </li>
+        <li>
+            <a href="#!">קישור 2</a>
+        </li>
+        <li>
+            <a href="#!">קישור 3</a>
+        </li>
+        <li>
+            <a href="#!">קישור 4</a>
+        </li>
         </ul>
-        </div>
-        <div class="col-6 col-md">
-        <h5>About</h5>
-        <ul class="list-unstyled text-small">
-            <li><a class="text-muted" href="#">Team</a></li>
-            <li><a class="text-muted" href="#">Locations</a></li>
-            <li><a class="text-muted" href="#">Privacy</a></li>
-            <li><a class="text-muted" href="#">Terms</a></li>
+
+    </div>
+    <!-- Grid column -->
+
+    <hr class="clearfix w-100 d-md-none">
+
+    <!-- Grid column -->
+    <div class="col-md-3 mx-auto">
+
+        <!-- Links -->
+        <h5 class="font-weight-bold text-uppercase mt-3 mb-4">קישורים</h5>
+
+        <ul class="list-unstyled">
+        <li>
+            <a href="#!">קישור 1</a>
+        </li>
+        <li>
+            <a href="#!">קישור 2</a>
+        </li>
+        <li>
+            <a href="#!">קישור 3</a>
+        </li>
+        <li>
+            <a href="#!">קישור 4</a>
+        </li>
         </ul>
+
+    </div>
+    <!-- Grid column -->
+
+    <hr class="clearfix w-100 d-md-none">
+
+    <!-- Grid column -->
+    <div class="col-md-3 mx-auto">
+
+        <!-- Links -->
+        <h5 class="font-weight-bold text-uppercase mt-3 mb-4">קישורים</h5>
+
+        <ul class="list-unstyled">
+            <li>
+                <a href="#!">
+                    <img src="https://radiustheme.com/demo/html/classipost/classipost/img/footer/follow1.jpg" height="40px">
+                </a>
+            </li>
+            <li>
+                <img src="https://radiustheme.com/demo/html/classipost/classipost/img/footer/follow2.jpg" style="margin-top: 5px" height="40px">
+            </li>
+
+            <li>
+                <ul class="social-link">
+                    <li class="fa-classipost">
+                        <a href="#">
+                            <img src="https://radiustheme.com/demo/html/classipost/classipost/img/footer/facebook.jpg" alt="social">
+                        </a>
+                    </li>
+                    <li class="tw-classipost">
+                        <a href="#">
+                            <img src="https://radiustheme.com/demo/html/classipost/classipost/img/footer/twitter.jpg" alt="social">
+                        </a>
+                    </li>
+                    <li class="yo-classipost">
+                        <a href="#">
+                            <img src="https://radiustheme.com/demo/html/classipost/classipost/img/footer/youtube.jpg" alt="social">
+                        </a>
+                    </li>
+                    <li class="pi-classipost">
+                        <a href="#">
+                            <img src="https://radiustheme.com/demo/html/classipost/classipost/img/footer/pinterest.jpg" alt="social">
+                        </a>
+                    </li>
+                    <li class="li-classipost">
+                        <a href="#">
+                            <img src="https://radiustheme.com/demo/html/classipost/classipost/img/footer/linkedin.jpg" alt="social">
+                        </a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+
+    </div>
+    <!-- Grid column -->
+
+    </div>
+    <!-- Grid row -->
+
+</div>
+<!-- Footer Links -->
+
+<!-- Copyright -->
+<div class="footer-copyright py-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-12 text-right">
+                © 2018 כל הזכויות שמורות
+                <a href="#"> תורים.com</a>
+            </div>
+
+            <div class="col-lg-6 col-md-6 col-sm-6 col-12 text-left">
+                <ul id="cards-list">
+                    <li>
+                        <img src="assets/photos/cards/card1.jpg" alt="card">
+                    </li>
+                    <li>
+                        <img src="assets/photos/cards/card3.jpg" alt="card">
+                    </li>
+                    <li>
+                        <img src="assets/photos/cards/card4.jpg" alt="card">
+                    </li>
+                </ul>
+            </div>
         </div>
     </div>
+</div>
+<!-- Copyright -->
+
 </footer>
+<!-- Footer -->

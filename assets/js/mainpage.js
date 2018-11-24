@@ -1,6 +1,3 @@
-
-
-
 $(window).scroll(function () {
     if ($(window).scrollTop() >= 150) {
         $("#main-nav").addClass("floating");
@@ -9,9 +6,6 @@ $(window).scroll(function () {
     }
     
 });
-
-
-
 
 $.each($(".like"), function () {
     $(this).click(function () {
@@ -24,3 +18,17 @@ $.each($(".like"), function () {
     });
 });
 
+$("#organizations-wrap").slick({
+    slidesToShow: 4,
+    slidesToScroll: 4,
+    dots: true,
+    arrow: false,
+    rtl: true,
+});
+
+$.each($('.count-number'), function () {
+    $(this).counterUp({
+        // delay: 100,
+        time: 1300
+    });
+})
