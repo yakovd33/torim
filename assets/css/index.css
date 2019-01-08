@@ -12,21 +12,8 @@ body {
 }
 
 /* content */
-
-#slogen {
-    font-size: 15px;
-}
-
-#logo {
-    font-size: 30px;
-}
-
 .form-control {
     margin-left: 10px;
-}
-
-.mr-auto {
-    margin-left: 20px;
 }
 
 /* jumbotron*/
@@ -55,6 +42,7 @@ body {
     background-image: url("../photos/three.jpg");
     background-size: cover;
     position: relative;
+    background-position-y: -16px;
 }
 
 
@@ -63,7 +51,7 @@ body {
     display: block;
     margin: auto;
     outline: none;
-    box-shadow: 0 0 30px #949494e8;
+    box-shadow: 0 0 30px #505050e8;
     position: absolute;
     top: 50%;
     left: 0;
@@ -89,14 +77,13 @@ body {
     width:20%;
     margin: 0;
     margin-right: -4px;
-    background-color: #17a2b8;
+    background-color: #139e81;
     color: white;
     font-weight: bold;
     border-radius: .25rem 0 0 .25rem;
     padding: 13px 15px;
     box-shadow: none;
 }
-
 
 /* hr design*/
 
@@ -174,16 +161,18 @@ hr {
     font-size: larger;
 }
 
-.btn-primary {
-    background-color: #17a2b8;
-    border-color: #17a2b8;
-
+.book-card-btn {
+    float: right;
 }
 
-.btn-primary:hover {
-    background-color: #17a2b8;
-    border-color: #17a2b8;
+.booking-card {
+    position: relative;
+}
 
+.booking-card .rate {
+    position: absolute;
+    top: 10px;
+    left: 10px;
 }
 
 #search-wrap .scroll-downs {
@@ -209,25 +198,64 @@ hr {
     margin-top: 10px;
     margin-bottom: 0;
     text-align: center;
+    color: #fff;
 }
+
 .count-text {
     font-size: 13px;
     font-weight: normal;
     margin-top: 10px;
     margin-bottom: 0;
     text-align: center;
-    color: #17a2b8;
+    color: #fff;
 }
 .fa-2x {
     margin: 0 auto;
     float: none;
     display: table;
-    color: #17a2b8;
+    color: #fff;
 }
 
 #counters-section {
-    background-image: url("../photos/banner-five.jpg");
     background-size: cover;
     background-attachment: fixed;
     margin-top: 20px;
+    background-color: #139e81;
+}
+
+.world-numbers-box{
+    background:#1d3247;
+    padding: 22px 0
+}
+.world-numbers-box .box-cnt{
+    display:table;
+    margin:0 auto
+}
+.world-numbers-box .map-cnt{
+    display:table-cell;
+    vertical-align:middle;
+    padding-right:20px
+}
+.world-numbers-box .map-cnt img{
+    width:109px;
+    height:70px;
+    display:block
+}
+.world-numbers-box .info-cnt{
+    line-height:26px;
+    display:table-cell;
+    vertical-align:middle;
+    color:#fff;
+    font-size:26px;
+    font-weight:300;
+    text-align:center;
+    padding-left: 10px;
+}
+.world-numbers-box .cta-cnt{
+    display:table-cell;
+    vertical-align:middle;
+    padding-left:30px
+}
+.world-numbers-box .cta-cnt .ui-cta{
+    min-width:130px
 }

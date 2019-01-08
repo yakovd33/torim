@@ -28,7 +28,7 @@
                   </div>
                   
                   
-                    <a href="#" class="btn btn-primary">זמן תור</a>
+                    <a href="#" class="cute-btn-2">הזמן תור</a>
                     <i class="fas fa-heart like"></i>
     
                   
@@ -47,7 +47,7 @@
                     </div>
                     
                     
-                      <a href="#" class="btn btn-primary">זמן תור</a>
+                      <a href="#" class="cute-btn-2">הזמן תור</a>
                       <i class="fas fa-heart like"></i>
     
                     
@@ -66,7 +66,7 @@
                       </div>
                       
                       
-                        <a href="#" class="btn btn-primary">זמן תור</a>
+                        <a href="#" class="cute-btn-2">הזמן תור</a>
                         <i class="fas fa-heart like"></i>
       
                       
@@ -85,7 +85,7 @@
                         </div>
                         
                         
-                          <a href="#" class="btn btn-primary">זמן תור</a>
+                          <a href="#" class="cute-btn-2">הזמן תור</a>
                           <i class="fas fa-heart like"></i>
         
                         
@@ -104,7 +104,7 @@
                           </div>
                           
                           
-                            <a href="#" class="btn btn-primary">זמן תור</a>
+                            <a href="#" class="cute-btn-2">הזמן תור</a>
                             <i class="fas fa-heart like"></i>
           
                           
@@ -123,7 +123,7 @@
                             </div>
                             
                             
-                              <a href="#" class="btn btn-primary">זמן תור</a>
+                              <a href="#" class="cute-btn-2">הזמן תור</a>
                               <i class="fas fa-heart like"></i>
             
                             
@@ -142,7 +142,7 @@
                               </div>
                               
                               
-                                <a href="#" class="btn btn-primary">זמן תור</a>
+                                <a href="#" class="cute-btn-2">הזמן תור</a>
                                 <i class="fas fa-heart like"></i>
               
                               
@@ -161,7 +161,7 @@
                                 </div>
                                 
                                 
-                                  <a href="#" class="btn btn-primary">זמן תור</a>
+                                  <a href="#" class="cute-btn-2">הזמן תור</a>
                                   <i class="fas fa-heart like"></i>
                 
                                 
@@ -191,7 +191,7 @@
                     </div>
                     
                     
-                      <a href="#" class="btn btn-primary">זמן תור</a>
+                      <a href="#" class="cute-btn-2">הזמן תור</a>
                       <i class="fas fa-heart like"></i>
       
                     
@@ -210,7 +210,7 @@
                       </div>
                       
                       
-                        <a href="#" class="btn btn-primary">זמן תור</a>
+                        <a href="#" class="cute-btn-2">הזמן תור</a>
                         <i class="fas fa-heart like"></i>
       
                       
@@ -229,7 +229,7 @@
                         </div>
                         
                         
-                          <a href="#" class="btn btn-primary">זמן תור</a>
+                          <a href="#" class="cute-btn-2">הזמן תור</a>
                           <i class="fas fa-heart like"></i>
         
                         
@@ -248,7 +248,7 @@
                           </div>
                           
                           
-                            <a href="#" class="btn btn-primary">זמן תור</a>
+                            <a href="#" class="cute-btn-2">הזמן תור</a>
                             <i class="fas fa-heart like"></i>
           
                           
@@ -267,7 +267,7 @@
                             </div>
                             
                             
-                              <a href="#" class="btn btn-primary">זמן תור</a>
+                              <a href="#" class="cute-btn-2">הזמן תור</a>
                               <i class="fas fa-heart like"></i>
             
                             
@@ -286,7 +286,7 @@
                               </div>
                               
                               
-                                <a href="#" class="btn btn-primary">זמן תור</a>
+                                <a href="#" class="cute-btn-2">הזמן תור</a>
                                 <i class="fas fa-heart like"></i>
               
                               
@@ -305,7 +305,7 @@
                                 </div>
                                 
                                 
-                                  <a href="#" class="btn btn-primary">זמן תור</a>
+                                  <a href="#" class="cute-btn-2">הזמן תור</a>
                                   <i class="fas fa-heart like"></i>
                 
                                 
@@ -324,7 +324,7 @@
                                   </div>
                                   
                                   
-                                    <a href="#" class="btn btn-primary">זמן תור</a>
+                                    <a href="#" class="cute-btn-2">הזמן תור</a>
                                     <i class="fas fa-heart like"></i>
                   
                                   
@@ -355,7 +355,7 @@
               </div>
               
               
-                <a href="#" class="btn btn-primary">זמן תור</a>
+                <a href="#" class="cute-btn-2">הזמן תור</a>
                 <i class="fas fa-heart like"></i>
 
               
@@ -374,7 +374,7 @@
                 </div>
                 
                 
-                  <a href="#" class="btn btn-primary">זמן תור</a>
+                  <a href="#" class="cute-btn-2">הזמן תור</a>
                   <i class="fas fa-heart like"></i>
 
                 
@@ -393,7 +393,7 @@
                   </div>
                   
                   
-                    <a href="#" class="btn btn-primary">זמן תור</a>
+                    <a href="#" class="cute-btn-2">הזמן תור</a>
                     <i class="fas fa-heart like"></i>
   
                   
@@ -412,7 +412,7 @@
                     </div>
                     
                     
-                      <a href="#" class="btn btn-primary">זמן תור</a>
+                      <a href="#" class="cute-btn-2">הזמן תור</a>
                       <i class="fas fa-heart like"></i>
     
                     
@@ -431,7 +431,7 @@
                       </div>
                       
                       
-                        <a href="#" class="btn btn-primary">זמן תור</a>
+                        <a href="#" class="cute-btn-2">הזמן תור</a>
                         <i class="fas fa-heart like"></i>
       
                       
@@ -450,7 +450,7 @@
                         </div>
                         
                         
-                          <a href="#" class="btn btn-primary">זמן תור</a>
+                          <a href="#" class="cute-btn-2">הזמן תור</a>
                           <i class="fas fa-heart like"></i>
         
                         
@@ -469,7 +469,7 @@
                           </div>
                           
                           
-                            <a href="#" class="btn btn-primary">זמן תור</a>
+                            <a href="#" class="cute-btn-2">הזמן תור</a>
                             <i class="fas fa-heart like"></i>
           
                           
@@ -488,7 +488,7 @@
                             </div>
                             
                             
-                              <a href="#" class="btn btn-primary">זמן תור</a>
+                              <a href="#" class="cute-btn-2">הזמן תור</a>
                               <i class="fas fa-heart like"></i>
             
                             
@@ -519,7 +519,7 @@
                 </div>
                 
                 
-                  <a href="#" class="btn btn-primary">זמן תור</a>
+                  <a href="#" class="cute-btn-2">הזמן תור</a>
                   <i class="fas fa-heart like"></i>
   
                 
@@ -538,7 +538,7 @@
                   </div>
                   
                   
-                    <a href="#" class="btn btn-primary">זמן תור</a>
+                    <a href="#" class="cute-btn-2">הזמן תור</a>
                     <i class="fas fa-heart like"></i>
   
                   
@@ -557,7 +557,7 @@
                     </div>
                     
                     
-                      <a href="#" class="btn btn-primary">זמן תור</a>
+                      <a href="#" class="cute-btn-2">הזמן תור</a>
                       <i class="fas fa-heart like"></i>
     
                     
@@ -576,7 +576,7 @@
                       </div>
                       
                       
-                        <a href="#" class="btn btn-primary">זמן תור</a>
+                        <a href="#" class="cute-btn-2">הזמן תור</a>
                         <i class="fas fa-heart like"></i>
       
                       
@@ -595,7 +595,7 @@
                         </div>
                         
                         
-                          <a href="#" class="btn btn-primary">זמן תור</a>
+                          <a href="#" class="cute-btn-2">הזמן תור</a>
                           <i class="fas fa-heart like"></i>
         
                         
@@ -614,7 +614,7 @@
                           </div>
                           
                           
-                            <a href="#" class="btn btn-primary">זמן תור</a>
+                            <a href="#" class="cute-btn-2">הזמן תור</a>
                             <i class="fas fa-heart like"></i>
           
                           
@@ -633,7 +633,7 @@
                             </div>
                             
                             
-                              <a href="#" class="btn btn-primary">זמן תור</a>
+                              <a href="#" class="cute-btn-2">הזמן תור</a>
                               <i class="fas fa-heart like"></i>
             
                             
@@ -652,7 +652,7 @@
                               </div>
                               
                               
-                                <a href="#" class="btn btn-primary">זמן תור</a>
+                                <a href="#" class="cute-btn-2">הזמן תור</a>
                                 <i class="fas fa-heart like"></i>
               
                               

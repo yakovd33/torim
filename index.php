@@ -36,120 +36,124 @@
 			<h1 class="tag-name">ארגונים</h1>
 				<div class="row" id="organizations-wrap">
 					<div class="col-md-3">
-						<div class="card">
+						<div class="card booking-card">
+							<div class="rate">
+								<div class="stars" data-stars="1">
+									<svg height="25" width="23" class="star rating" data-rating="1">
+										<polygon points="9.9, 1.1, 3.3, 21.78, 19.8, 8.58, 0, 8.58, 16.5, 21.78" style="fill-rule:nonzero;"/>
+									</svg>
+									<svg height="25" width="23" class="star rating" data-rating="2">
+										<polygon points="9.9, 1.1, 3.3, 21.78, 19.8, 8.58, 0, 8.58, 16.5, 21.78" style="fill-rule:nonzero;"/>
+									</svg>
+									<svg height="25" width="23" class="star rating" data-rating="3">
+										<polygon points="9.9, 1.1, 3.3, 21.78, 19.8, 8.58, 0, 8.58, 16.5, 21.78" style="fill-rule:nonzero;"/>
+									</svg>
+									<svg height="25" width="23" class="star rating" data-rating="4">
+										<polygon points="9.9, 1.1, 3.3, 21.78, 19.8, 8.58, 0, 8.58, 16.5, 21.78" style="fill-rule:nonzero;"/>
+									</svg>
+									<svg height="25" width="23" class="star rating" data-rating="5">
+										<polygon points="9.9, 1.1, 3.3, 21.78, 19.8, 8.58, 0, 8.58, 16.5, 21.78" style="fill-rule:nonzero;"/>
+									</svg>
+								</div>
+							</div>
+
 							<img class="card-img-top" src="https://via.placeholder.com/286x180" alt="Card image cap">
 							<div class="card-body">
 								<h5 class="card-title">שם החברה</h5>
-								<div class="rate">
-									</i><i class="fas fa-star"></i> 4.5 (40k+)
-								</div>
 								
-								<a href="#" class="btn btn-primary">זמן תור</a>
+								<a href="#" class="cute-btn-2 book-card-btn">הזמן תור</a>
+								<div class="clearfix"></div>
 								<i class="fas fa-heart like"></i>
 							</div>
 						</div>
 					</div>
 
 					<div class="col-md-3">
-							<div class="card">
+							<div class="card booking-card">
 								<img class="card-img-top" src="https://via.placeholder.com/286x180" alt="Card image cap">
 								<div class="card-body">
 									<h5 class="card-title">שם החברה</h5>
-									<div class="rate">
-										</i><i class="fas fa-star"></i> 4.5 (40k+)
-									</div>
 									
-									<a href="#" class="btn btn-primary">זמן תור</a>
+									<a href="#" class="cute-btn-2 book-card-btn">הזמן תור</a>
+									<div class="clearfix"></div>
 									<i class="fas fa-heart like"></i>
 								</div>
 							</div>
 						</div>
 
 						<div class="col-md-3">
-							<div class="card">
+							<div class="card booking-card">
 								<img class="card-img-top" src="https://via.placeholder.com/286x180" alt="Card image cap">
 								<div class="card-body">
 									<h5 class="card-title">שם החברה</h5>
-									<div class="rate">
-										</i><i class="fas fa-star"></i> 4.5 (40k+)
-									</div>
 									
-									<a href="#" class="btn btn-primary">זמן תור</a>
+									<a href="#" class="cute-btn-2 book-card-btn">הזמן תור</a>
+									<div class="clearfix"></div>
 									<i class="fas fa-heart like"></i>
 								</div>
 							</div>
 						</div>
 
 						<div class="col-md-3">
-							<div class="card">
+							<div class="card booking-card">
 								<img class="card-img-top" src="https://via.placeholder.com/286x180" alt="Card image cap">
 								<div class="card-body">
 									<h5 class="card-title">שם החברה</h5>
-									<div class="rate">
-										</i><i class="fas fa-star"></i> 4.5 (40k+)
-									</div>
 									
-									<a href="#" class="btn btn-primary">זמן תור</a>
+									<a href="#" class="cute-btn-2 book-card-btn">הזמן תור</a>
+									<div class="clearfix"></div>
 									<i class="fas fa-heart like"></i>
 								</div>
 							</div>
 						</div>
 
 						<div class="col-md-3">
-							<div class="card">
+							<div class="card booking-card">
 								<img class="card-img-top" src="https://via.placeholder.com/286x180" alt="Card image cap">
-								<div class="card-body">
+								<div class=" booking-card">
 									<h5 class="card-title">שם החברה</h5>
-									<div class="rate">
-										</i><i class="fas fa-star"></i> 4.5 (40k+)
-									</div>
-									
-									<a href="#" class="btn btn-primary">זמן תור</a>
+
+									<a href="#" class="cute-btn-2 book-card-btn">הזמן תור</a>
+									<div class="clearfix"></div>
 									<i class="fas fa-heart like"></i>
 								</div>
 							</div>
 						</div>
 
 						<div class="col-md-3">
-							<div class="card">
+							<div class="card booking-card">
 								<img class="card-img-top" src="https://via.placeholder.com/286x180" alt="Card image cap">
 								<div class="card-body">
 									<h5 class="card-title">שם החברה</h5>
-									<div class="rate">
-										</i><i class="fas fa-star"></i> 4.5 (40k+)
-									</div>
 									
-									<a href="#" class="btn btn-primary">זמן תור</a>
+									<a href="#" class="cute-btn-2 book-card-btn">הזמן תור</a>
+									<div class="clearfix"></div>
 									<i class="fas fa-heart like"></i>
 								</div>
 							</div>
 						</div>
 
 						<div class="col-md-3">
-							<div class="card">
+							<div class="card booking-card">
 								<img class="card-img-top" src="https://via.placeholder.com/286x180" alt="Card image cap">
 								<div class="card-body">
 									<h5 class="card-title">שם החברה</h5>
-									<div class="rate">
-										</i><i class="fas fa-star"></i> 4.5 (40k+)
-									</div>
 									
-									<a href="#" class="btn btn-primary">זמן תור</a>
+									<a href="#" class="cute-btn-2 book-card-btn">הזמן תור</a>
+									<div class="clearfix"></div>
 									<i class="fas fa-heart like"></i>
 								</div>
 							</div>
 						</div>
 
 						<div class="col-md-3">
-							<div class="card">
+							<div class="card booking-card">
 								<img class="card-img-top" src="https://via.placeholder.com/286x180" alt="Card image cap">
 								<div class="card-body">
 									<h5 class="card-title">שם החברה</h5>
-									<div class="rate">
-										</i><i class="fas fa-star"></i> 4.5 (40k+)
-									</div>
 									
-									<a href="#" class="btn btn-primary">זמן תור</a>
+									<a href="#" class="cute-btn-2 book-card-btn">הזמן תור</a>
+									<div class="clearfix"></div>
 									<i class="fas fa-heart like"></i>
 								</div>
 							</div>
@@ -191,8 +195,18 @@
 			</div>
 		</div>
 
+		<div class="section world-numbers-box inited">
+			<div class="content-holder">
+				<div class="box-cnt">
+					<div class="info-cnt">בעלי עסקים? רוצים להרחיב את העסק שלכם?</div>
+					<div class="cta-cnt"><a class="ui-cta ui-cta-1 cute-btn-2 book-card-btn" href="/en-in/registration/">הצטרפו עכשיו!</a></div>
+				</div>
+			</div>
+		</div>
+
 		<?php include 'includes/footer.php'; ?>
 
 		<script src="assets/js/mainpage.js"></script>
+		<script src="assets/js/main.js"></script>
 	</body>
 </html>

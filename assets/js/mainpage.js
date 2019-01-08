@@ -1,12 +1,3 @@
-$(window).scroll(function () {
-    if ($(window).scrollTop() >= 150) {
-        $("#main-nav").addClass("floating");
-    } else {
-        $("#main-nav").removeClass("floating");
-    }
-    
-});
-
 $.each($(".like"), function () {
     $(this).click(function () {
         $(this).addClass('animated swing');
