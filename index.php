@@ -3,14 +3,61 @@
 	<link rel="stylesheet" href="assets/css/index.css">
 	
 	<div id="search-wrap">
-		<form>
-			<input class="form-control" id="form-input" type="search" placeholder="חיפוש" aria-label="Search">
-			<button class="btn btn-outline-info  my-2 my-sm-0 hvr-buzz-out" id="form-button" type="submit">חיפוש</button>
-		</form>
 
-		<div class="scroll-downs">
-			<div class="mousey">
-				<div class="scroller"></div>
+		<form>
+			<div>
+				<h2 id="search-wrap-msg">חפש/י בין 1,935 עסקים שונים</h2>
+				<div class="clearfix"></div>
+			</div>
+
+			<div id="search-form-content">
+				<input class="form-control" id="form-input" type="search" placeholder="חיפוש" aria-label="Search">
+				<button class="btn btn-outline-info  my-2 my-sm-0 hvr-buzz-out" id="form-button" type="submit">חיפוש</button>
+			</div>
+
+			<div id="search-recommendations-wrap">
+				<span id="search-recommendations-title">הצעות: </span>
+				<a href="#"><span class="search-recommendation">קופת חולים כללית</span></a>
+				<a href="#"><span class="search-recommendation">מספרה</span></a>
+				<a href="#"><span class="search-recommendation">דואר ישראל</span></a>
+			</div>
+		</form>
+	</div>
+
+	<div class="section" id="services-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3 service-wrap">
+					<div class="service-icon"><img src="assets/photos/fast-booking.png"></div>
+					<div class="service-title">תשלום מהיר</div>
+					<div class="service-description">
+						Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id.
+					</div>
+				</div>
+
+				<div class="col-md-3 service-wrap">
+					<div class="service-icon"><img src="assets/photos/cash.png"></div>
+					<div class="service-title">תשלום מהיר</div>
+					<div class="service-description">
+						Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id.
+					</div>
+				</div>
+
+				<div class="col-md-3 service-wrap">
+					<div class="service-icon"><img src="assets/photos/cash.png"></div>
+					<div class="service-title">תשלום מהיר</div>
+					<div class="service-description">
+						Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id.
+					</div>
+				</div>
+
+				<div class="col-md-3 service-wrap">
+					<div class="service-icon"><img src="assets/photos/cash.png"></div>
+					<div class="service-title">תשלום מהיר</div>
+					<div class="service-description">
+						Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id.
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -94,7 +141,7 @@
 					<div class="col-md-3">
 						<div class="card booking-card">
 							<div class="booking-card-img-wrap"><img class="card-img-top" src="assets/photos/clalit.png"></div>
-							<div class=" booking-card">
+							<div class="card-body">
 								<h5 class="card-title">שם החברה</h5>
 
 								<a href="#" class="cute-btn-2 book-card-btn">הזמן תור</a>
@@ -182,7 +229,7 @@
 	<div class="section world-numbers-box inited">
 		<div class="content-holder">
 			<div class="box-cnt">
-				<div class="info-cnt">בעלי עסקים? רוצים להרחיב את העסק שלכם?</div>
+				<div class="info-cnt"><img src="assets/photos/coins.png" height="32px" style="margin-left: 5px"> בעלי עסקים? רוצים להרחיב את העסק שלכם?</div>
 				<div class="cta-cnt"><a class="ui-cta ui-cta-1 cute-btn-2 book-card-btn" href="/en-in/registration/">הצטרפו עכשיו!</a></div>
 			</div>
 		</div>

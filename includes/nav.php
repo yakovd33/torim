@@ -12,10 +12,10 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="signup.php">הרשמה</a>
+                    <a class="nav-link" href="account.php">הרשמה</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link border" href="signin.php">התחברות</a>
+                    <a class="nav-link border" href="account.php">התחברות</a>
                 </li>
             </ul>
         </div>
