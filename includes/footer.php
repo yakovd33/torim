@@ -169,3 +169,8 @@
 
 </footer>
 <!-- Footer -->
+
+<script src="assets/js/mainpage.js"></script>
+		<script src="assets/js/main.js"></script>
+	</body>
+</html>

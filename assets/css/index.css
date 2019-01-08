@@ -167,6 +167,7 @@ hr {
 
 .booking-card {
     position: relative;
+    box-shadow: 0 0 10px #6b6b6b14;
 }
 
 .booking-card .rate {
@@ -234,7 +235,6 @@ hr {
 .world-numbers-box .map-cnt{
     display:table-cell;
     vertical-align:middle;
-    padding-right:20px
 }
 .world-numbers-box .map-cnt img{
     width:109px;
@@ -249,7 +249,7 @@ hr {
     font-size:26px;
     font-weight:300;
     text-align:center;
-    padding-left: 10px;
+    padding-left: 20px;
 }
 .world-numbers-box .cta-cnt{
     display:table-cell;
@@ -258,4 +258,16 @@ hr {
 }
 .world-numbers-box .cta-cnt .ui-cta{
     min-width:130px
+}
+
+.booking-card-img-wrap {
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid #ebebeb;
+}
+
+.card-img-top {
+
 }
