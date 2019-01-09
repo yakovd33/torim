@@ -1,3 +1,12 @@
+@import 'elements.css';
+
+* {
+    -ms-transition: .2s ease,color .2s ease;
+    -webkit-transition: .2s ease,color .2s ease;
+    -moz-transition: .2s ease,color .2s ease;
+    transition: .2s ease,color .2s ease;
+}
+
 /* Navbar */
 .navbar-brand {
     display: inline;
@@ -9,7 +18,7 @@
     left: 0;
     right: 0;
     z-index: 9999;
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(226, 221, 221, 0.8);
     box-shadow: 0 0 10px #3a3a3a3d;
 }
 
@@ -84,7 +93,7 @@
       padding-bottom: 15px;
   }
 
-  #main-footer .font-weight-bold:before {
+#main-footer .font-weight-bold:before {
     content: "";
     height: 3px;
     width: 35px;
@@ -93,6 +102,10 @@
     right: 0;
     bottom: 0px;
     z-index: 1;
+}
+
+#footer-top > .row {
+    max-width: 100% !important;
 }
 
 #cards-list {
@@ -235,3 +248,21 @@
           display: none;
       }
   }
+
+  .save-booking {
+    color: #e4e3e3;
+}
+
+.save-booking:hover {
+    transform: scale(1.2);
+    transform-origin: 0 0;
+    cursor: pointer;
+}
+
+.heartClicked {
+    color: red;
+}
+
+.save-booking {
+    font-size: 1.35em;
+}
