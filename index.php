@@ -94,7 +94,7 @@
 							
 							<a href="#" class="cute-btn-2 book-card-btn">הזמן תור</a>
 							<div class="clearfix"></div>
-							<i class="fas fa-heart like"></i>
+							<i class="fas fa-heart like save-booking"></i>
 						</div>
 					</div>
 				</div>
@@ -107,7 +107,7 @@
 								
 								<a href="#" class="cute-btn-2 book-card-btn">הזמן תור</a>
 								<div class="clearfix"></div>
-								<i class="fas fa-heart like"></i>
+								<i class="fas fa-heart like save-booking"></i>
 							</div>
 						</div>
 					</div>
@@ -120,7 +120,7 @@
 								
 								<a href="#" class="cute-btn-2 book-card-btn">הזמן תור</a>
 								<div class="clearfix"></div>
-								<i class="fas fa-heart like"></i>
+								<i class="fas fa-heart like save-booking"></i>
 							</div>
 						</div>
 					</div>
@@ -133,7 +133,7 @@
 								
 								<a href="#" class="cute-btn-2 book-card-btn">הזמן תור</a>
 								<div class="clearfix"></div>
-								<i class="fas fa-heart like"></i>
+								<i class="fas fa-heart like save-booking"></i>
 							</div>
 						</div>
 					</div>
@@ -146,20 +146,7 @@
 
 								<a href="#" class="cute-btn-2 book-card-btn">הזמן תור</a>
 								<div class="clearfix"></div>
-								<i class="fas fa-heart like"></i>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-md-3">
-						<div class="card booking-card">
-							<div class="booking-card-img-wrap"><img class="card-img-top" src="assets/photos/clalit.png"></div>
-							<div class="card-body">
-								<h5 class="card-title">שם החברה</h5>
-								
-								<a href="#" class="cute-btn-2 book-card-btn">הזמן תור</a>
-								<div class="clearfix"></div>
-								<i class="fas fa-heart like"></i>
+								<i class="fas fa-heart like save-booking"></i>
 							</div>
 						</div>
 					</div>
@@ -172,7 +159,7 @@
 								
 								<a href="#" class="cute-btn-2 book-card-btn">הזמן תור</a>
 								<div class="clearfix"></div>
-								<i class="fas fa-heart like"></i>
+								<i class="fas fa-heart like save-booking"></i>
 							</div>
 						</div>
 					</div>
@@ -185,7 +172,20 @@
 								
 								<a href="#" class="cute-btn-2 book-card-btn">הזמן תור</a>
 								<div class="clearfix"></div>
-								<i class="fas fa-heart like"></i>
+								<i class="fas fa-heart like save-booking"></i>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-3">
+						<div class="card booking-card">
+							<div class="booking-card-img-wrap"><img class="card-img-top" src="assets/photos/clalit.png"></div>
+							<div class="card-body">
+								<h5 class="card-title">שם החברה</h5>
+								
+								<a href="#" class="cute-btn-2 book-card-btn">הזמן תור</a>
+								<div class="clearfix"></div>
+								<i class="fas fa-heart like save-booking"></i>
 							</div>
 						</div>
 					</div>
@@ -230,9 +230,11 @@
 		<div class="content-holder">
 			<div class="box-cnt">
 				<div class="info-cnt"><img src="assets/photos/coins.png" height="32px" style="margin-left: 5px"> בעלי עסקים? רוצים להרחיב את העסק שלכם?</div>
-				<div class="cta-cnt"><a class="ui-cta ui-cta-1 cute-btn-2 book-card-btn" href="/en-in/registration/">הצטרפו עכשיו!</a></div>
+				<div class="cta-cnt"><a class="ui-cta ui-cta-1 cute-btn-2 book-card-btn" href="buissnesacc.php">הצטרפו עכשיו!</a></div>
 			</div>
 		</div>
 	</div>
 
 	<?php include 'includes/footer.php'; ?>
+
+	<!--/en-in/registration/-->

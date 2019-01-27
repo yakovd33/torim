@@ -49,9 +49,8 @@ body {
 #search-wrap form {
     width: 40%;
     display: block;
-    right: 100px;
-    /* margin: auto;
-    right: 0; */
+    margin: auto;
+    right: 0;
     outline: none;
     position: absolute;
     top: 50%;
@@ -167,25 +166,6 @@ hr {
    margin-top: -25px;
    text-align: left;
 }
-
-.fa-heart {
-    color: #e4e3e3;
-}
-
-.fa-heart:hover {
-    transform: scale(1.2);
-    transform-origin: 0 0;
-    cursor: pointer;
-}
-
-.heartClicked {
-    color: red;
-}
-
-.fas {
-    font-size: 1.35em;
-}
-
 
 .tag-name {
     text-align: right;

@@ -22,6 +22,11 @@
                     <input type="password" name="password" placeholder="סיסמא">
                 </div>
 
+                <div class="form-section">
+                    <span class="fas fa-code input-icon"></span>
+                    <input type="text" name="text" placeholder="קוד זיהוי">
+                </div>
+
                 <div class="form-section btn-container">
                     <input type="submit" value="התחברות">
                 </div>
@@ -33,12 +38,7 @@
                 <form>
                     <div class="form-section">
                         <span class="fas fa-user input-icon"></span>
-                        <input type="text" name="name" placeholder="שם" class="שם">
-                    </div>
-
-                    <div class="form-section">
-                        <span class="fas fa-user input-icon"></span>
-                        <input type="text" name="name" placeholder="שם משפחה" class="שם משפחה">
+                        <input type="text" name="name" placeholder="שם העסק" class="שם העסק">
                     </div>
 
                     <div class="form-section">
@@ -54,6 +54,11 @@
                     <div class="form-section">
                         <span class="fa fa-unlock-alt input-icon"></span>
                         <input type="password" name="re-password" placeholder="אימות סיסמא">
+                    </div>
+
+                    <div class="form-section">
+                        <span class="fas fa-code input-icon"></span>
+                        <input type="text" name="text" placeholder="קוד זיהוי">
                     </div>
 
                     <div class="form-section btn-container">
