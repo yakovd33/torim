@@ -41,6 +41,32 @@
                 </div>
             </div>
 
+            <div id="appointment-button">
+                <i class="far fa-calendar-alt"></i>
+                הזמן תור
+            </div>
+
+            <div id="company-details">
+
+                <div>
+                    <h4 class="details-headlines">שעות פעילות</h4>
+                    <p>08:00 - 18:00</p>
+                </div>
+
+                <div>
+                    <h4 class="details-headlines">קצת על העסק</h4>
+                    <p>אני קצת טקסט על העסק</p>
+                </div>
+
+                <div>
+                    <h4 class="details-headlines">מיקום</h4>
+                    <p>אני יודע איפה אתה נמצא יבן זונה</p>
+                </div>
+
+            </div>
+
+           
+
             <!-- <div id="buttons">
                 <button>אודות</button>
                 <button>ביקורות</button>
