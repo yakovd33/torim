@@ -18,6 +18,25 @@ body {
     
 }
 
+#company-logo-wrap {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 50px;
+}
+
+#favorite-company-from-logo {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 45px;
+    width: 45px;
+    background: linear-gradient(90deg, #4E4187 0%, #3e3565 50%);
+    border-radius: 50%;
+    text-align: center;
+    line-height: 52px;
+}
+
 
 #company-logo {
     border-radius: 50%;
@@ -49,7 +68,7 @@ body {
 }
 
 #company-details {
-    margin-top: 35px;
+    /* margin-top: 35px; */
 }
 
 #company-details p {
@@ -62,4 +81,37 @@ body {
     font-weight: bold;
     margin-bottom: 3px;
     color: #a2a4a5;
+}
+
+#statistics-bar {
+    background-color: #fff;
+    border-radius: 3px;
+    box-shadow: 0 0 10px 5px #ebebeb;
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.statistics-bar-item-number {
+    font-weight: bold;
+    color: #616161;
+}
+
+.statistics-bar-item {
+    position: relative;
+    width: 33%;
+}
+
+.statistics-bar-item:not(:last-child):after {
+    content: "";
+    height: 40px;
+    width: 1px;
+    background-color: #ebebeb;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%)
 }
