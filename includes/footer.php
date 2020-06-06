@@ -146,7 +146,7 @@
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-6 col-12 text-right">
                 © 2018 כל הזכויות שמורות
-                <a href="#"> תורים.com</a>
+                <a href="#"> מנתור.com</a>
             </div>
 
             <div class="col-lg-6 col-md-6 col-sm-6 col-12 text-left">

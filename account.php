@@ -32,6 +32,16 @@
         <div id="tab-2" class="register tab-content">
                 <form>
                     <div class="form-section">
+                        <span class="fas fa-user input-icon"></span>
+                        <input type="text" name="name" placeholder="שם" class="שם">
+                    </div>
+
+                    <div class="form-section">
+                        <span class="fas fa-user input-icon"></span>
+                        <input type="text" name="name" placeholder="שם משפחה" class="שם משפחה">
+                    </div>
+
+                    <div class="form-section">
                         <span class="fas fa-envelope input-icon"></span>
                         <input type="email" name="name" placeholder="אימייל" class="אימייל">
                     </div>

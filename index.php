@@ -230,9 +230,11 @@
 		<div class="content-holder">
 			<div class="box-cnt">
 				<div class="info-cnt"><img src="assets/photos/coins.png" height="32px" style="margin-left: 5px"> בעלי עסקים? רוצים להרחיב את העסק שלכם?</div>
-				<div class="cta-cnt"><a class="ui-cta ui-cta-1 cute-btn-2 book-card-btn" href="/en-in/registration/">הצטרפו עכשיו!</a></div>
+				<div class="cta-cnt"><a class="ui-cta ui-cta-1 cute-btn-2 book-card-btn" href="buissnesacc.php">הצטרפו עכשיו!</a></div>
 			</div>
 		</div>
 	</div>
 
 	<?php include 'includes/footer.php'; ?>
+
+	<!--/en-in/registration/-->
