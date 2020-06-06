@@ -7,6 +7,10 @@
     transition: .2s ease,color .2s ease;
 }
 
+body {
+    font-family: 'Open Sans Hebrew', sans-serif;
+}
+
 /* Navbar */
 .navbar-brand {
     display: inline;
