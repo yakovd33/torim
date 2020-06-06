@@ -157,7 +157,8 @@ body {
     width:20%;
     margin: 0;
     margin-right: -4px;
-    background-color: #139e81;
+    /* background: linear-gradient(90deg, #4E4187 0%, #3e3565 50%); */
+    background: linear-gradient(90deg, #4E4187 0%, #3e3565 50%);
     color: white;
     font-weight: bold;
     border-radius: .25rem 0 0 .25rem;
