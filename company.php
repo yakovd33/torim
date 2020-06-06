@@ -17,25 +17,6 @@
 
             <h3 id="company-job">קופת חולים</h3>
 
-            <div id="company-details">
-
-                <div>
-                    <h4 class="details-headlines">שעות פעילות</h4>
-                    <p>08:00 - 18:00</p>
-                </div>
-
-                <div>
-                    <h4 class="details-headlines">קצת על העסק</h4>
-                    <p>אני קצת טקסט על העסק</p>
-                </div>
-
-                <div>
-                    <h4 class="details-headlines">מיקום</h4>
-                    <p>אני יודע איפה אתה נמצא יבן זונה</p>
-                </div>
-
-            </div>
-
             <div class="rate">
                 <div class="stars" data-stars="1">
                     <svg height="25" width="23" class="star rating" data-rating="1">
@@ -55,6 +36,32 @@
                     </svg>
                 </div>
             </div>
+
+            <div id="appointment-button">
+                <i class="far fa-calendar-alt"></i>
+                הזמן תור
+            </div>
+
+            <div id="company-details">
+
+                <div>
+                    <h4 class="details-headlines">שעות פעילות</h4>
+                    <p>08:00 - 18:00</p>
+                </div>
+
+                <div>
+                    <h4 class="details-headlines">קצת על העסק</h4>
+                    <p>אני קצת טקסט על העסק</p>
+                </div>
+
+                <div>
+                    <h4 class="details-headlines">מיקום</h4>
+                    <p>אני יודע איפה אתה נמצא יבן זונה</p>
+                </div>
+
+            </div>
+
+           
 
             <!-- <div id="buttons">
                 <button>אודות</button>
