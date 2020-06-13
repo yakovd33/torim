@@ -115,6 +115,21 @@
             </div>
 
             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13394.091698819742!2d35.0777892!3d32.9372007!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x92a5bccf8ecfa1df!2z16LXm9eVINen15XXmNeRINeU16bXpNeV158!5e0!3m2!1sen!2sil!4v1591460575045!5m2!1sen!2sil" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+            
+            <div id="contact-info">
+                <h4 id="contact-headline">צור קשר</h4>
+                <p>באפשרותך ליצור קשר עם בית העסק במספר הטלפון 04-22222222 או לשלוח מייל לכתובת clalit@clalit.co.il</p>
+            </div>
+
+            <div id="navigate">
+                <h4 id="navigate-headline">נווט</h4>
+
+                <div id="navigate-button">
+                    <i class="fab fa-waze"></i>
+                    <button id="navigate-btn">waze</button>
+                </div>
+                
+            </div>
         </div>
 
     </div>
