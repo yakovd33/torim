@@ -9,6 +9,7 @@ body {
 
 #main-nav {
     background-color: rgba(226, 221, 221, 0.8);
+    box-shadow: 0 0 10px #3a3a3a3d;
 }
 
 #company-profile {
