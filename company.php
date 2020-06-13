@@ -60,7 +60,7 @@
 
                 <div>
                     <h4 class="details-headlines">מיקום</h4>
-                    <p>אני יודע איפה אתה נמצא יבן זונה</p>
+                    <p>אני יודע איפה אתה נמצא</p>
                 </div>
 
             </div>
@@ -79,12 +79,12 @@
             <div id="statistics-bar">
                 <div class="statistics-bar-item">
                     <div class="statistics-bar-item-number">300</div>
-                    <div class="statistics-bar-item-title">אנשים קבעו תור</div>
+                    <div class="statistics-bar-item-title">ביקורים בדף</div>
                 </div>
 
                 <div class="statistics-bar-item">
                     <div class="statistics-bar-item-number">300</div>
-                    <div class="statistics-bar-item-title">אנשים קבעו תור</div>
+                    <div class="statistics-bar-item-title">שמירות במועדפים</div>
                 </div>
 
                 <div class="statistics-bar-item">
@@ -110,7 +110,7 @@
 
                 <div>
                     <h4 class="details-headlines">מיקום</h4>
-                    <p>אני יודע איפה אתה נמצא יבן זונה</p>
+                    <p>אני יודע איפה אתה נמצא</p>
                 </div>
             </div>
 
