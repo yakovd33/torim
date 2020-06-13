@@ -43,7 +43,7 @@
 
             <div id="appointment-button">
                 <i class="far fa-calendar-alt"></i>
-                הזמן תור
+                <button id="set-app-button">הזמן תור</button>
             </div>
 
             <div id="company-details">
